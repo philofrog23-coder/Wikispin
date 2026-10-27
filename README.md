@@ -1,6 +1,6 @@
 # WikiSpin
 
-**[Open the live demo →](https://wikispin.netlify.app)** · [Download for Windows](https://github.com/philofrog23-coder/wikispin/releases/latest)
+**[Open the live demo →](https://wikispin.netlify.app)** · [Download for Windows + Android](https://github.com/philofrog23-coder/wikispin/releases/latest)
 
 **Pick a topic, spin the roulette, read something you'd never have found yourself.**
 
