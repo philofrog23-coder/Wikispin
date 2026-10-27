@@ -1,5 +1,7 @@
 # WikiSpin
 
+**[Open the live demo →](https://wikispin.netlify.app)** · [Download for Windows](https://github.com/philofrog23-coder/wikispin/releases/latest)
+
 **Pick a topic, spin the roulette, read something you'd never have found yourself.**
 
 WikiSpin is a React Native + Expo app for iOS, Android, Windows and the web that turns random Wikipedia reading into a small game. Type any topic, or choose People, Plants, Sports, Wars or Anything, narrow it down by subcategory, country, era and how famous the subject is, then spin a case-opening style reel that ticks and slows down until it lands on your article.
